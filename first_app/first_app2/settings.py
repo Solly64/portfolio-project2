@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'portfoliodb',
         'USER': 'djangodbman',
         'PASSWORD':' Oregon2726!blue4341',
-        'HOST': '167.99.155.124',
+        'HOST': '127.0.0.1',
         'PORT': '5432',
         }
 }
